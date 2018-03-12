@@ -1,0 +1,43 @@
+body {
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+
+  
+    
+}
+
+img { 
+    height: 260px;
+    width: 200px;
+}
+
+.row {
+    width: 700px;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(66, 122, 80);
+    padding: 10px;
+}
+
+
+.column1 {
+    max-width: 200px;
+    max-height: 350px;
+
+    
+}
+.column2 {
+    flex-grow: 1;
+    padding: 15px;
+    color: #fff;
+    text-shadow: 1px 0px 8px black;
+   
+}
+
+
+
+
+
